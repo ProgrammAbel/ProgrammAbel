@@ -1,6 +1,6 @@
 # Hi, I'm Abel, otherwise known as [ProgrammAbel](programmabel.github.io) 👋
 
-I'm a 13-year-old tech maniac who's also into ornithology 🐦 and reading 📖. The power of open source software is my jam!
+I'm a 15-year-old tech maniac who's also into ornithology 🐦 and reading 📖. The power of open source software is my jam!
 
 ### My Goals
 
